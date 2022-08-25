@@ -1,3 +1,4 @@
 from core.main import *
 
-salute()
+if __name__ == "__main__":
+    root.mainloop()

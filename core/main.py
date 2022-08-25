@@ -1,5 +1,1 @@
-# Dummy content
-
-
-def salute():
-    print("Hello World!")
+from signin.new_project import *
